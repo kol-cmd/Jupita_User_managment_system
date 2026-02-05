@@ -35,7 +35,7 @@ Ensure you have a local server environment installed (e.g., **XAMPP**, **WAMP**,
 
 2.  **Database Setup:**
     * Open your MySQL tool (e.g., phpMyAdmin).
-    * Create a new database named `jupita_db`.
+    * Create a new database named `users`.
     * Import the `database.sql` file provided in the root directory of this project.
     * *This will create the `users` and `notes` tables and insert a default Super Admin.*
 
