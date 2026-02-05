@@ -6,3 +6,9 @@
 *.ttf linguist-vendored
 *.woff linguist-vendored
 *.woff2 linguist-vendored
+# Force PHP language detection
+*.php linguist-language=PHP
+
+# (Optional) If you want to ensure Vue/JS are detected correctly too:
+*.js linguist-language=JavaScript
+*.vue linguist-language=Vue
